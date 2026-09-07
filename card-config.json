@@ -1,0 +1,35 @@
+{
+  "title": "花园来客",
+  "subtitle": "一只猫，慢慢走进春天",
+  "collection": "THE GARDEN VISITOR",
+  "tagline": "绿眼睛 · 软爪子 · 一束晨光",
+  "technique": "温柔，正在靠近",
+  "edition": "No. 001 / 001",
+  "description": "银灰色的小来客，踩着晨光走过花园。把这一眼的好奇，和毛茸茸的温柔，收进一张会发光的卡。",
+  "parameters": {
+    "subjectScale": 1.0,
+    "subjectDepth": 0.16,
+    "backgroundDepth": -0.1,
+    "foil": 0.44
+  },
+  "safeArea": {
+    "scale": 1.0,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "backgroundUvScale": [
+    1,
+    0.925
+  ],
+  "backTitle": "花园来客",
+  "backMessage": "把日子走慢一点，\n把温柔留给你。",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/card.glb"
+  }
+}
